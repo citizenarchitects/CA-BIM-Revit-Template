@@ -1,4 +1,4 @@
-CA BIM Revit Templates
+Citizen Architects (CA) BIM Revit Templates
 Current development activity
 Review v2 templates, Template Guide and provide comments/issues and submit fixes and new features as a pull request
 Contribution Guidelines
